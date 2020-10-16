@@ -5,12 +5,13 @@ A discord bot exclusively for MIT Manipal. Still under work
 ---
 ## Color Codes
 
-Help: 6789FF
-Profile: 0BEBBC
-Success: 8DFF75
-Question/Alert: FFBE52
-Failure: FF4F4F
-Event/smth: 9237FA
+- Help: 6789FF
+- Profile: 0BEBBC
+- Success: 8DFF75
+- Question/Alert: FFBE52
+- Failure: FF4F4F
+- Event/smth: 9237FA
+
 ---
 ## Logging
 
